@@ -1,0 +1,22 @@
+header h1{
+    position: static;
+    margin-bottom: 10px;
+}
+
+h1{
+    margin-left: 10px;
+    display: block;
+    margin-top: 50px;
+}
+
+.error{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+.logo{
+    display: block;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
